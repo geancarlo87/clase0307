@@ -3,3 +3,7 @@
 * tauro
 * aries
 * cancer
+# lista de otros caballero dorados
+* acuario
+* piscis
+* geminis
