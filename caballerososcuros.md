@@ -2,3 +2,7 @@
 * saga
 * camus
 * mascara de muerte
+# agregando nuevo nombres
+* aries
+* long
+* tres
